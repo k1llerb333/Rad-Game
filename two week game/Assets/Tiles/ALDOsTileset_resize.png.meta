@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 33f9bd245c33078459f1a0195d839300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4466784310127938244
+    second: ALDOsTileset_resize_0
+  - first:
+      213: 2494531175529888728
+    second: ALDOsTileset_resize_1
+  - first:
+      213: -2771888248463125261
+    second: ALDOsTileset_resize_2
+  - first:
+      213: 5055438715151051730
+    second: ALDOsTileset_resize_3
+  - first:
+      213: 5228439496182826599
+    second: ALDOsTileset_resize_4
+  - first:
+      213: -5600014533889858875
+    second: ALDOsTileset_resize_5
+  - first:
+      213: -8803371869240459476
+    second: ALDOsTileset_resize_6
+  - first:
+      213: 8363780569543529335
+    second: ALDOsTileset_resize_7
+  - first:
+      213: -2940001761553035247
+    second: ALDOsTileset_resize_8
+  - first:
+      213: -8532184607146560492
+    second: ALDOsTileset_resize_9
+  - first:
+      213: -6949845934434682088
+    second: ALDOsTileset_resize_10
+  - first:
+      213: -5481597288312079756
+    second: ALDOsTileset_resize_11
+  - first:
+      213: -2752922901602901597
+    second: ALDOsTileset_resize_12
+  - first:
+      213: 5608340013850080489
+    second: ALDOsTileset_resize_13
+  - first:
+      213: -3765464913241946650
+    second: ALDOsTileset_resize_14
+  - first:
+      213: 2671282651714939898
+    second: ALDOsTileset_resize_15
+  - first:
+      213: 7451803819659471449
+    second: ALDOsTileset_resize_16
+  - first:
+      213: -3906179343257205693
+    second: ALDOsTileset_resize_17
+  - first:
+      213: 6550659053700168872
+    second: ALDOsTileset_resize_18
+  - first:
+      213: 6263275763124696654
+    second: ALDOsTileset_resize_19
+  - first:
+      213: -7844890496264191141
+    second: ALDOsTileset_resize_20
+  - first:
+      213: -5454339960017529714
+    second: ALDOsTileset_resize_21
+  - first:
+      213: -6250433927383964967
+    second: ALDOsTileset_resize_22
+  - first:
+      213: 8297916084049044150
+    second: ALDOsTileset_resize_23
+  - first:
+      213: 1055834527223447262
+    second: ALDOsTileset_resize_24
+  - first:
+      213: -3835779356504486679
+    second: ALDOsTileset_resize_25
+  - first:
+      213: -2425088953698756768
+    second: ALDOsTileset_resize_26
+  - first:
+      213: -4154576961491815029
+    second: ALDOsTileset_resize_27
+  - first:
+      213: 8541418708714111668
+    second: ALDOsTileset_resize_28
+  - first:
+      213: -2336032995380419230
+    second: ALDOsTileset_resize_29
+  - first:
+      213: -7300664526563530305
+    second: ALDOsTileset_resize_30
+  - first:
+      213: -1541275432244749183
+    second: ALDOsTileset_resize_31
+  - first:
+      213: -919419017734399266
+    second: ALDOsTileset_resize_32
+  - first:
+      213: -2750936241322355101
+    second: ALDOsTileset_resize_33
+  - first:
+      213: -2951683840837670106
+    second: ALDOsTileset_resize_34
+  - first:
+      213: 4162597918879662753
+    second: ALDOsTileset_resize_35
+  - first:
+      213: -5509490082305109456
+    second: ALDOsTileset_resize_36
+  - first:
+      213: 8415113860077642628
+    second: ALDOsTileset_resize_37
+  - first:
+      213: -7955583601671406430
+    second: ALDOsTileset_resize_38
+  - first:
+      213: -7316998753146358161
+    second: ALDOsTileset_resize_39
+  - first:
+      213: 4212298881786864410
+    second: ALDOsTileset_resize_40
+  - first:
+      213: 642045073012787414
+    second: ALDOsTileset_resize_41
+  - first:
+      213: 1039419078211104138
+    second: ALDOsTileset_resize_42
+  - first:
+      213: -3249018131786523016
+    second: ALDOsTileset_resize_43
+  - first:
+      213: -2856907460629255295
+    second: ALDOsTileset_resize_44
+  - first:
+      213: -715465810947717791
+    second: ALDOsTileset_resize_45
+  - first:
+      213: -3222961632437968645
+    second: ALDOsTileset_resize_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac67df9a43dfd30800000000000000
+      internalID: 4466784310127938244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 207
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb89633ea5e9220800000000000000
+      internalID: 2494531175529888728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 207
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49649f2564889d0800000000000000
+      internalID: -2771888248463125261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 207
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe5500ab6882640800000000000000
+      internalID: 5055438715151051730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766899335062f8840800000000000000
+      internalID: 5228439496182826599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 93
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2687a9370c842b0800000000000000
+      internalID: -5600014533889858875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f714c5de324d580800000000000000
+      internalID: -8803371869240459476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d4f26d1e121470800000000000000
+      internalID: 8363780569543529335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 172
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110db9389f30337d0800000000000000
+      internalID: -2940001761553035247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 172
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41439f42e47979980800000000000000
+      internalID: -8532184607146560492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 92
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf35ac1ff2d8f90800000000000000
+      internalID: -6949845934434682088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af96c1f447de3b0800000000000000
+      internalID: -5481597288312079756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 91
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ebe3e437abc9d0800000000000000
+      internalID: -2752922901602901597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 90
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4b4214783d4dd40800000000000000
+      internalID: 5608340013850080489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e544089c916ebbc0800000000000000
+      internalID: -3765464913241946650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 145
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe12e2b6d421520800000000000000
+      internalID: 2671282651714939898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 137
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa3b6b7102a6760800000000000000
+      internalID: 7451803819659471449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 19
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3448f2845967ac9c0800000000000000
+      internalID: -3906179343257205693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 85
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acbe74d3bd98ea50800000000000000
+      internalID: 6550659053700168872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467c5f4f10abe650800000000000000
+      internalID: 6263275763124696654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 92
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c55c58a9512390800000000000000
+      internalID: -7844890496264191141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 20
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84dfe664ba4e44b0800000000000000
+      internalID: -5454339960017529714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2aa32957ff149a0800000000000000
+      internalID: -6250433927383964967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 26
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26eb5d6be182370800000000000000
+      internalID: 8297916084049044150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 21
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edefeb098e317ae00800000000000000
+      internalID: 1055834527223447262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 95
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec06c28ff294cac0800000000000000
+      internalID: -3835779356504486679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 79
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5000009, y: 0.55136913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067df0ef17a585ed0800000000000000
+      internalID: -2425088953698756768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 86
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b853242f34af756c0800000000000000
+      internalID: -4154576961491815029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c7caaf07398670800000000000000
+      internalID: 8541418708714111668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26522c61e5eb49fd0800000000000000
+      internalID: -2336032995380419230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 78
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9a2ed2b44deaa90800000000000000
+      internalID: -7300664526563530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd300192a4c9ae0800000000000000
+      internalID: -1541275432244749183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad33056419d33f0800000000000000
+      internalID: -919419017734399266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 28
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669b384016b2d9d0800000000000000
+      internalID: -2750936241322355101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 87
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b2c997f238907d0800000000000000
+      internalID: -2951683840837670106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24a99b0c484c930800000000000000
+      internalID: 4162597918879662753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0329aaee5fb5a83b0800000000000000
+      internalID: -5509490082305109456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e466787d78c470800000000000000
+      internalID: 8415113860077642628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acf3716dd6189190800000000000000
+      internalID: -7955583601671406430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663cb0b66cc47a90800000000000000
+      internalID: -7316998753146358161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136ea8e387157a30800000000000000
+      internalID: 4212298881786864410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d887ba979009e800800000000000000
+      internalID: 642045073012787414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d69810522cc6e00800000000000000
+      internalID: 1039419078211104138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e9f02293b29e2d0800000000000000
+      internalID: -3249018131786523016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_44
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba7051dc93a58d0800000000000000
+      internalID: -2856907460629255295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1654689b2a72216f0800000000000000
+      internalID: -715465810947717791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALDOsTileset_resize_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf062d5a87db543d0800000000000000
+      internalID: -3222961632437968645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
