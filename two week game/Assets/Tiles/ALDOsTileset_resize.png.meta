@@ -232,9 +232,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 44
-        y: 137
+        y: 139
         width: 34
-        height: 35
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,48 +333,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_5
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 93
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c2687a9370c842b0800000000000000
-      internalID: -5600014533889858875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_6
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 96
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2f714c5de324d580800000000000000
-      internalID: -8803371869240459476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_7
       rect:
         serializedVersion: 2
@@ -438,27 +396,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_10
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 92
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81bf35ac1ff2d8f90800000000000000
-      internalID: -6949845934434682088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_11
       rect:
         serializedVersion: 2
@@ -480,55 +417,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_12
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 91
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a1ebe3e437abc9d0800000000000000
-      internalID: -2752922901602901597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_13
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 90
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e4b4214783d4dd40800000000000000
-      internalID: 5608340013850080489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_14
       rect:
         serializedVersion: 2
         x: 10
-        y: 137
+        y: 139
         width: 34
-        height: 35
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -568,9 +463,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 78
-        y: 137
+        y: 139
         width: 34
-        height: 35
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,48 +475,6 @@ TextureImporter:
       bones: []
       spriteID: 95aa3b6b7102a6760800000000000000
       internalID: 7451803819659471449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_17
-      rect:
-        serializedVersion: 2
-        x: 130
-        y: 19
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3448f2845967ac9c0800000000000000
-      internalID: -3906179343257205693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_18
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 85
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8acbe74d3bd98ea50800000000000000
-      internalID: 6550659053700168872
       vertices: []
       indices: 
       edges: []
@@ -648,132 +501,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_20
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 92
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b53c55c58a9512390800000000000000
-      internalID: -7844890496264191141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_21
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 20
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e84dfe664ba4e44b0800000000000000
-      internalID: -5454339960017529714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_22
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 26
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d2aa32957ff149a0800000000000000
-      internalID: -6250433927383964967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_23
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 26
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b26eb5d6be182370800000000000000
-      internalID: 8297916084049044150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_24
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 21
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edefeb098e317ae00800000000000000
-      internalID: 1055834527223447262
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_25
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 95
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ec06c28ff294cac0800000000000000
-      internalID: -3835779356504486679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_26
       rect:
         serializedVersion: 2
@@ -795,34 +522,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_27
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 86
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b853242f34af756c0800000000000000
-      internalID: -4154576961491815029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_28
       rect:
         serializedVersion: 2
         x: 7
-        y: 78
+        y: 77
         width: 34
-        height: 35
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -841,9 +547,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 41
-        y: 78
+        y: 77
         width: 34
-        height: 35
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -862,9 +568,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 75
-        y: 78
-        width: 34
-        height: 35
+        y: 77
+        width: 35
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -879,95 +585,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_31
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 24
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18cd300192a4c9ae0800000000000000
-      internalID: -1541275432244749183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_32
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 102
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edad33056419d33f0800000000000000
-      internalID: -919419017734399266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_33
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 28
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3669b384016b2d9d0800000000000000
-      internalID: -2750936241322355101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_34
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 87
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62b2c997f238907d0800000000000000
-      internalID: -2951683840837670106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_35
       rect:
         serializedVersion: 2
         x: 7
-        y: 43
+        y: 42
         width: 34
         height: 35
       alignment: 0
@@ -984,54 +606,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_36
-      rect:
-        serializedVersion: 2
-        x: 125
-        y: 18
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0329aaee5fb5a83b0800000000000000
-      internalID: -5509490082305109456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ALDOsTileset_resize_37
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 30
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 483e466787d78c470800000000000000
-      internalID: 8415113860077642628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_38
       rect:
         serializedVersion: 2
         x: 75
-        y: 43
-        width: 34
+        y: 42
+        width: 35
         height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1095,7 +675,7 @@ TextureImporter:
         x: 7
         y: 8
         width: 34
-        height: 35
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1116,7 +696,7 @@ TextureImporter:
         x: 41
         y: 8
         width: 34
-        height: 35
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1131,34 +711,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ALDOsTileset_resize_43
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 32
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87e9f02293b29e2d0800000000000000
-      internalID: -3249018131786523016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ALDOsTileset_resize_44
       rect:
         serializedVersion: 2
         x: 75
         y: 8
-        width: 34
-        height: 35
+        width: 35
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
